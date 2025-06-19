@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @serifkapcuk
-- 👀 I’m interested in c# software language and sql.
-- 🌱 I’m currently learning  sql and c# software language .
+- 👀 I’m interested in mobile iOS applications
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me kapcukmen.123@gmail.com
 
